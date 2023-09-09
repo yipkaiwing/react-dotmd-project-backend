@@ -1,0 +1,34 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Meeting with Marketing Team",
+      "content": "## Agenda\n\n- Discuss marketing strategy for Q4\n- Review social media performance\n- Brainstorm new campaign ideas\n\n## Attendees\n\n- Alice Smith\n- Bob Johnson\n- Carol Lee\n\n## Notes\n\n- Social media engagement has dropped by 15% since last month\n- Launching a Halloween-themed promotion might increase engagement\n- Alice to come up with a few mockups for the campaign\n- Next meeting scheduled for September 15th at 2:30 PM",
+      "datetime": "2021-09-01T10:30:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Research on React Frameworks",
+      "content": "## Goals\n\n- Research top React frameworks\n- Create a list of pros and cons for each framework\n- Determine which framework to use for the next project\n\n## Frameworks\n\n### Next.js\n\n#### Pros\n\n- Built-in server-side rendering\n- Automatic code splitting and optimized asset serving\n- Excellent TypeScript support\n\n#### Cons\n\n- Steep learning curve\n- Limited configuration options\n- May not be suitable for smaller projects\n\n### Gatsby\n\n#### Pros\n\n- Excellent performance and SEO\n- Large ecosystem of plugins and starters\n- Built-in image optimization and lazy loading\n\n#### Cons\n\n- Not ideal for complex backends\n- Learning curve for GraphQL\n- Smaller community compared to Next.js\n\n### Create React App\n\n#### Pros\n\n- Easy to set up and use\n- Flexible and configurable\n- Good for small to medium-sized projects\n\n#### Cons\n\n- Limited out-of-the-box functionalities\n- No server-side rendering\n- No built-in state management library\n\n## Conclusion\n\nAfter careful consideration, we decided to use Next.js for the next project. Its support for server-side rendering and TypeScript, along with its performance and asset optimization features, make it the ideal choice for our needs.",
+      "datetime": "2021-09-02T15:00:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Ideas for Brand Refresh",
+      "content": "## Goals\n\n- Come up with a new visual identity for the brand\n- Identify brand strengths and values\n- Brainstorm creative ways to communicate the brand message\n\n## Strengths and Values\n\n- Innovative and cutting-edge\n- High-quality and reliable\n- Customer-centric and responsive\n\n## Brand Identity\n\n- Color palette to represent innovation and reliability\n- Creative tagline to communicate responsiveness and customer-centricity\n- Consistent visual styles across all channels (website, social media, print, etc.)\n\n## Next Steps\n\n- Consult with creative agency for a brand redesign proposal\n- Gather feedback from internal stakeholders and customers\n- Develop a timeline and budget for the brand refresh",
+      "datetime": "2021-09-03T09:00:00Z"
+    },
+    {
+      "id": 4,
+      "title": "Notes from Conference Talk",
+      "content": "## Speaker\n\nName: John Doe\n\nCompany: Big Tech\n\n## Topic\n\nTitle: The Future of Artificial Intelligence\n\n## Key Takeaways\n\n- AI has the potential to revolutionize many industries, from healthcare to transportation\n- Ethical considerations and bias need to be addressed in AI development\n- The role of humans in the workforce will evolve with AI, not disappear\n\n## Additional Resources\n\n- [Article on AI Ethics](https://hbr.org/2018/04/why-companies-that-keep-their-promises-earn-more-customers)\n- [Book on AI in Healthcare](https://www.amazon.com/AI-Healthcare-Innovations-Challenges-Future/dp/0198844339)",
+      "datetime": "2021-09-04T14:00:00Z"
+    },
+    {
+      "id": 5,
+      "title": "Personal Goals and Reflections",
+      "content": "## Goals\n\n- Finish reading 'Infinite Jest'\n- Exercise for at least 30 minutes every day\n- Learn to cook a new dish\n\n## Reflections\n\n- I've been struggling to find the motivation to exercise lately\n- 'Infinite Jest' is a challenging but rewarding book so far\n- Cooking helps me relax and feel accomplished\n\n## Next Steps\n\n- Schedule exercise time in my calendar\n- Join a virtual book club to discuss 'Infinite Jest'\n- Research new recipes to try",
+      "datetime": "2021-09-05T20:00:00Z"
+    }
+  ]
+}
